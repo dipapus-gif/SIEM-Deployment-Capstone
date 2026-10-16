@@ -5,7 +5,7 @@
 ![OS-Linux](https://img.shields.io/badge/OS-Kali_Linux-dragon.svg)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-v13-red.svg)
 
-## 📌 Executive Summary
+## 📌 EXECUTIVE SUMMARY
 
 This repository documents the end-to-end deployment of a *Security Information and Event Management (SIEM)* environment using *Splunk Enterprise 10.4.3*, designed to address zero-visibility risks across Windows and Linux endpoints.
 
